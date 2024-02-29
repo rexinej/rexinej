@@ -5,7 +5,7 @@
 
 ## About me
 - 📚 I’m currently a 2nd year student at NAIT in the DMIT program studying Web Design and Development!
-- - 💡 I enjoy designing and making things look pretty. Whether it's crafting user interfaces or creating visually appealing graphics, I love the creative process!
+- 🎨 I enjoy designing and making things look pretty. Whether it's crafting user interfaces or creating visually appealing graphics, I love the creative process!
 
 
 <!---
