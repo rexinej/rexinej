@@ -4,7 +4,10 @@
 - 📚 I’m currently a student at NAIT in the DMIT program.
 - 🌱 I’m studying Web Design and Development!
 - 📫 How to reach me email me at rexine28@gmail.com
-- ⚡ Fun fact: ...
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-rexinejimenez-red)](https://www.instagram.com/your-instagram/)
+
 
 <!---
 rexinej/rexinej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
