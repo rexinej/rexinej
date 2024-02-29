@@ -6,7 +6,7 @@
 - 📫 How to reach me email me at rexine28@gmail.com
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-rexinejimenez-red)](https://www.instagram.com/your-instagram/)
+[![Instagram](https://img.shields.io/badge/Instagram-rexinejimenez-red)](https://www.instagram.com/rexinejimenez/)
 
 
 <!---
