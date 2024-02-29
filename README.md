@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rexine28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rexine28@gmail.com)](mailto:rexine28@gmail.com)
 
 ## About me
-- 📚 I’m currently a 2nd year student at NAIT in the DMIT program studying Web Design and Development!
+- 📚 I’m currently a 2nd year student at NAIT in the DMIT program studying <b>Web Design and Development</b>!
 - 🎨 I enjoy designing and making things look pretty. Whether it's crafting user interfaces or creating visually appealing graphics, I love the creative process!
 
 
