@@ -1,8 +1,7 @@
 # Hi! 👋  I'm Rexine Jimenez!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-rexinejimenez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rexinejimenez)](https://www.linkedin.com/in/rexinejimenez/)
-[![Instagram Badge](https://img.shields.io/badge/-@rexinejimenez-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rexinejimenez/)](https://instagram.com/_rexinejimenez)
-[![Gmail Badge](https://img.shields.io/badge/-rexine28-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rexine28@gmail.com)](mailto:jimenezrexine@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rexinejimenez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jimenezrexine@gmail.com)](mailto:jimenezrexine@gmail.com)
 
 
 
